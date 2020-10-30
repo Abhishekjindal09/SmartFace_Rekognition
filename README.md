@@ -31,7 +31,7 @@ You have to set up both frontend and <a href="https://github.com/Abhishekjindal0
 1. Clone the frontend repository.
 
    ```bash
-   git clone https://github.com/Abhishekjindal09/SmartFace_Rekognition-Backend.git
+   git clone https://github.com/Abhishekjindal09/SmartFace_Rekognition.git
    ```
 
 2. Install dependencies
