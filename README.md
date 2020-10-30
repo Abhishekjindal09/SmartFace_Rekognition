@@ -18,7 +18,7 @@
 ```bash
 React
 Tachyons
-Clarafai
+Clarifai
 Paricles
 npm
 Babel
