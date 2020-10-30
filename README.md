@@ -10,8 +10,7 @@
   Full Stack Face Recognition WebApp built using React, Node, Clarifai API and hash secured Postgres database.
 </p>
 <div align="center">
-  public/screencapture-localhost-3001-2020-10-30-22_55_20.png
-  <img alt="demo" src="public/screencapture-localhost-3001-2020-10-30-22_55_20.png" width="620px" height="450px" />
+  <img alt="demo" src="public/screencapture-localhost-3001-2020-10-30-22_55_20.png" width="100%"/>
 </div>
 
 # 📚 Libraries Used
